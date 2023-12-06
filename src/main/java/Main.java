@@ -6,6 +6,8 @@ public class Main {
 
 
         RealismFrame.init();
+
+        //noinspection unused
         RealismFrame frame = new RealismFrame();
     }
 }
